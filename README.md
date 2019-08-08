@@ -9,7 +9,6 @@ $pip install requests
 $git clone https://github.com/Xractz/ShortID
 $cd ShortID
 $python bypass.py
-```
 
-Short ID, Copyright 2019, Xractz - IndoSec
+Copyright © 2019, Xractz - IndoSec
 
