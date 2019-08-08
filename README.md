@@ -11,3 +11,5 @@ $cd ShortID
 $python bypass.py
 ```
 
+#### Copyright IndoSec - Xractz
+
